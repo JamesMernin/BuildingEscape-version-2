@@ -6,7 +6,6 @@
 #include "Components/ActorComponent.h"
 #include "PositionReport.generated.h"
 
-
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class BUILDINGESCAPE_API UPositionReport : public UActorComponent
 {
